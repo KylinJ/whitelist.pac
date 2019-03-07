@@ -226,7 +226,6 @@ var white_domains = {
 "hebei":1,
 "yinshua":1
 },"co":{
-"v2ex":1,
 "meijubie":1,
 "425300":1,
 "banzhu":1,
