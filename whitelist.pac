@@ -8691,6 +8691,7 @@ var white_domains = {
 "qzone":1,
 "ulinix":1
 },"me":{
+"laomo":1,
 "ele":1,
 "diaodiaode":1,
 "qbox":1,
